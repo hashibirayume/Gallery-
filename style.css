@@ -23,12 +23,12 @@
   border-radius: 18px;
 }
 
-/* عکس‌های بلندتر */
+
 .card.tall img {
   height: 340px;
 }
 
-/* عکس بزرگ */
+
 .card.big {
   grid-row: span 2;
 }
